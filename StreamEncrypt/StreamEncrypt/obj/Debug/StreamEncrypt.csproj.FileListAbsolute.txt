@@ -1,0 +1,15 @@
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\bin\Debug\StreamEncrypt.exe.config
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\bin\Debug\StreamEncrypt.exe
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\bin\Debug\StreamEncrypt.pdb
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt.csproj.AssemblyReference.cache
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\MainWindow.g.cs
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\App.g.cs
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt_MarkupCompile.cache
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt_MarkupCompile.lref
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\MainWindow.baml
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt.g.resources
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt.Properties.Resources.resources
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt.csproj.GenerateResource.cache
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt.csproj.CoreCompileInputs.cache
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt.exe
+C:\Гавно\Учеба-Сучеба\4 сем\ТИ_2025\Лаба2\StreamEncrypt\StreamEncrypt\obj\Debug\StreamEncrypt.pdb

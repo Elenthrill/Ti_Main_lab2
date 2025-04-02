@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\streamencrypt\\backend\\keygen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|solutionrelative:streamencrypt\\backend\\keygen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\streamencrypt\\backend\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|solutionrelative:streamencrypt\\backend\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|c:\\\u0433\u0430\u0432\u043D\u043E\\\u0443\u0447\u0435\u0431\u0430-\u0441\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0442\u0438_2025\\\u043B\u0430\u0431\u04302\\streamencrypt\\streamencrypt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|solutionrelative:streamencrypt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\streamencrypt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|solutionrelative:streamencrypt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\streamencrypt\\backend\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D533424-3070-426F-B971-B22246379BC1}|StreamEncrypt\\StreamEncrypt.csproj|solutionrelative:streamencrypt\\backend\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyGen.cs",
+              "DocumentMoniker": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\BackEnd\\KeyGen.cs",
+              "RelativeDocumentMoniker": "StreamEncrypt\\BackEnd\\KeyGen.cs",
+              "ToolTip": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\BackEnd\\KeyGen.cs",
+              "RelativeToolTip": "StreamEncrypt\\BackEnd\\KeyGen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:21:58.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StreamEncrypt\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StreamEncrypt\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowC8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:21:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\BackEnd\\Encryption.cs",
+              "RelativeDocumentMoniker": "StreamEncrypt\\BackEnd\\Encryption.cs",
+              "ToolTip": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\BackEnd\\Encryption.cs",
+              "RelativeToolTip": "StreamEncrypt\\BackEnd\\Encryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:02:04.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Convert.cs",
+              "DocumentMoniker": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\BackEnd\\Convert.cs",
+              "RelativeDocumentMoniker": "StreamEncrypt\\BackEnd\\Convert.cs",
+              "ToolTip": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\BackEnd\\Convert.cs",
+              "RelativeToolTip": "StreamEncrypt\\BackEnd\\Convert.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:14:53.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StreamEncrypt\\MainWindow.xaml",
+              "ToolTip": "C:\\\u0413\u0430\u0432\u043D\u043E\\\u0423\u0447\u0435\u0431\u0430-\u0421\u0443\u0447\u0435\u0431\u0430\\4 \u0441\u0435\u043C\\\u0422\u0418_2025\\\u041B\u0430\u0431\u04302\\StreamEncrypt\\StreamEncrypt\\MainWindow.xaml",
+              "RelativeToolTip": "StreamEncrypt\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T08:21:22.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
